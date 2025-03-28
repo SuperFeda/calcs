@@ -6,4 +6,4 @@ Lang list:
 
 [Java](https://github.com/SuperFeda/calcs/blob/main/Calc.java)
 
-[C#](https://github.com/SuperFeda/calcs/blob/main/Calculator.sc)
+[C#](https://github.com/SuperFeda/calcs/blob/main/Calculator.cs)
